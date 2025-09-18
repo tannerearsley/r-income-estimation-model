@@ -22,7 +22,11 @@
 ---
 
 ## Included Files
-- `data_cleaning_script.sql` → Contains all queries with comments and steps.  
+- `income_prediction_ML_modeling.r` → R code for adult income modeling
+- `adult.data` → initial adult income dataset
+- `decision_tree_model.png` → Image of resultant decision tree model
+- `model_accuracy_matrix.png` → Screenshot of accuracy matrix of each created model
+- `user_estimate_predictions.png` → Estimate of user input values plugged into each model
 
 ---
 
